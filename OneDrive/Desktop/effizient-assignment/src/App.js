@@ -46,7 +46,7 @@ function App() {
 
       if (response.ok) {
         console.log('Form submitted successfully!');
-        // Reset the form or perform any other actions here
+        
       } else {
         console.error('Form submission failed.');
       }
@@ -111,7 +111,7 @@ function App() {
             <option value="High School">High School</option>
             <option value="Bachelor's Degree">Bachelor's Degree</option>
             <option value="Master's Degree">Master's Degree</option>
-            {/* Add more options as needed */}
+            {/* We can Add more options as needed */}
           </select>
         </div>
         <div className="question-box">

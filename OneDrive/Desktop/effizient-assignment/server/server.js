@@ -11,7 +11,7 @@ app.use(bodyParser.json());
 
 // Configure nodemailer to send emails
 const transporter = nodemailer.createTransport({
-  service: 'your-email-service', // e.g., 'gmail'
+  service: 'your-email-service', 
   auth: {
     user: 'shivanithoke3108@gmail.com',
     pass: 'your-email-password',
@@ -51,8 +51,6 @@ app.post('/submit-form', async (req, res) => {
     // Send the email
     await transporter.sendMail(mailOptions);
 
-    // You can store the form data in a database here if needed
-    // Example: database.save(formData);
 
     res.status(200).json({ success: true, message: 'Email sent successfully' });
   } catch (error) {

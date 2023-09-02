@@ -1,4 +1,4 @@
-/* Reset default margins and padding */
+
 * {
   margin: 0;
   padding: 0;
@@ -32,7 +32,6 @@ p {
   margin-bottom: 10px;
 }
 
-/* Style the form label and input elements */
 .question-box {
   border: 1px solid #ccc;
   border-radius: 5px;

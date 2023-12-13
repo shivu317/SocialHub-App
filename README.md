@@ -7,9 +7,8 @@ Welcome to SocialHub, a basic Social Media Web App built using React JS, TypeScr
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [App Structure](#app-structure)
-4. [App Screenshots](#app-screenshots)
-5. [Deployment](#deployment)
-6. [How to Run Locally](#how-to-run-locally)
+4. [Deployment](#deployment)
+5. [How to Run Locally](#how-to-run-locally)
 
 ### Introduction
 
@@ -56,11 +55,6 @@ The application is structured with the following components:
 
 - **Other Pages:** Include "My Likes," "My Bookmarks," "My Posts," and "My Profile," each displaying relevant information and actions.
 
-### App Screenshots
-
-![Screenshot 1](https://drive.google.com/file/d/1N-czpx1n_DrHYNyrAZwCT_ZBsnEcq4kv/view?usp=sharing)
-![Screenshot 2](https://drive.google.com/file/d/1Yr25u846l1WFSMc6KIR1k6PbgVFMfILu/view?usp=sharing)
-![Screenshot 3](https://drive.google.com/file/d/1mKVFm5WfEiCN6j16V71BGAJV9BEyg0oO/view?usp=sharing)
 
 ### Deployment
 
